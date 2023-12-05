@@ -1,1 +1,1 @@
-test.js
+import react from "react"
